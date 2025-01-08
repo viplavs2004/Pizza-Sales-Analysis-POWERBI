@@ -78,10 +78,6 @@ If you're interested in replicating the analysis or want to use your own dataset
 
 Feel free to fork this repository and make contributions. If you find ways to improve the analysis or have new ideas for visualizations, please submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to [Maven Analytics](https://www.mavenanalytics.io/blog/maven-pizza-challenge) for providing the dataset.
