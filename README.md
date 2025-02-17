@@ -50,6 +50,14 @@ The primary objectives of this project are to:
 - **Order Value Trends**: The average order value is calculated to assess overall customer spending patterns.
 - **Seating Utilization**: Insights into seating capacity utilization to optimize table management.
 
+## Output Dashboard
+
+### **Sales Report - Page 1**
+![Pizza Sales Report Page 1](https://raw.githubusercontent.com/viplavs2004/Pizza-Sales-Analysis-POWERBI/main/Pizza%20Sales%20Report%20page%201.PNG)
+
+### **Sales Report - Page 2**
+![Pizza Sales Report Page 2](https://raw.githubusercontent.com/viplavs2004/Pizza-Sales-Analysis-POWERBI/main/Pizza%20Sales%20Pages%202.PNG)
+
 ## How to Use the Dashboard
 
 1. **Clone this repository** to your local machine.
@@ -86,4 +94,3 @@ Feel free to fork this repository and make contributions. If you find ways to im
 ---
 
 Enjoy exploring the Pizza Sales Revenue Dashboard, and I hope it helps Plato's Pizza optimize their operations and boost sales!
-
